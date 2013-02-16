@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="button_text">Launch Music</string>
+    <string name="app_name">CarTunes</string>
+    <string name="progress_connecting">connecting to device...</string>
+    <string name="progress_open_music">opening music...</string>
+    <string name="no_device_label">no default bluetooth device</string>
+    <string name="change_device_instructions">Click anywhere to change bluetooth device</string>
+    <string name="device_list_header">Choose default bluetooth device</string>
+
+</resources>

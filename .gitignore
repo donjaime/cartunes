@@ -1,0 +1,7 @@
+*.[oa]
+*~
+bin/
+*.class
+local.properties
+project.properties
+gen/
